@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=FAMOUSSDEV007&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Next.js%20%26%20Laravel%20%7C%20AI%20Explorer&descAlignY=75&descSize=18" width="100%" />
-
 ![Profile Views](https://komarev.com/ghpvc/?username=famoussdev007&color=2c5364&style=flat-square&label=Profile+Views)
 [![Portfolio](https://img.shields.io/badge/Portfolio-famoussdev.vercel.app-2c5364?style=flat-square)](https://famoussdev.vercel.app)
 
