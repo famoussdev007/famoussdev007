@@ -86,7 +86,7 @@ En ce moment, je plonge aussi dans le **Machine Learning** et l'**IA visuelle**,
 
 **⚙️ Backend**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs" />
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,nestjs" />
 
 </td>
 <td align="center" width="33%">
@@ -147,6 +147,7 @@ En ce moment, je plonge aussi dans le **Machine Learning** et l'**IA visuelle**,
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
 </p>
 
 **🗄️ Bases de données & ORM**
