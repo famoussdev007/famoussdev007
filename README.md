@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=FAMOUSSDEV007&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Next.js%20%26%20Laravel%20%7C%20AI%20Explorer&descAlignY=75&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=PHENO&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Next.js%20%26%20Laravel%20%7C%20AI%20Explorer&descAlignY=75&descSize=18" width="100%" />
 
 [![Full-Stack](https://img.shields.io/badge/-Full--Stack-0f2027?style=flat-square)](#-tech-stack)
 [![Next.js](https://img.shields.io/badge/-Next.js-2c5364?style=flat-square)](#-tech-stack)
