@@ -2,8 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=FAMOUSSDEV007&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Next.js%20%26%20Laravel%20%7C%20AI%20Explorer&descAlignY=75&descSize=18" width="100%" />
 
+[![Full-Stack](https://img.shields.io/badge/-Full--Stack-0f2027?style=flat-square)](#-tech-stack)
+[![Next.js](https://img.shields.io/badge/-Next.js-2c5364?style=flat-square)](#-tech-stack)
+[![Laravel](https://img.shields.io/badge/-Laravel-2c5364?style=flat-square)](#-tech-stack)
+[![AI Explorer](https://img.shields.io/badge/-AI%20Explorer-0f2027?style=flat-square)](#-tech-stack)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=famoussdev007&color=2c5364&style=flat-square&label=Profile+Views)
-[![Portfolio](https://img.shields.io/badge/Portfolio-famoussdev.vercel.app-2c5364?style=flat-square)](https://famoussdev.vercel.app)
 
 </div>
 
@@ -11,7 +15,9 @@
 
 ### 👋 Qui suis-je
 
-Développeur **Full-Stack**, basé à Bamako, Mali. Étudiant en Génie Logiciel & Développement Web, je construis des applications web modernes avec **Next.js** et **Laravel**, et j'explore l'**IA visuelle** en marge de mes études.
+Je suis développeur **Full-Stack**, basé à Bamako, Mali. Étudiant en Génie Logiciel & Développement Web, je construis des applications web modernes — de l'architecture backend aux interfaces — avec **Next.js** et **Laravel**.
+
+En ce moment, je plonge aussi dans le **Machine Learning** et l'**IA visuelle**, en marge de mes études, pour élargir ma palette d'outils au-delà du développement web classique.
 
 <table>
 <tr>
@@ -42,7 +48,7 @@ Développeur **Full-Stack**, basé à Bamako, Mali. Étudiant en Génie Logiciel
 <tr>
 <td align="center" valign="top" width="33%">
 
-**🖥️ Frontend**
+**🎨 Frontend**
 <br/>
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" />
 
@@ -56,7 +62,7 @@ Développeur **Full-Stack**, basé à Bamako, Mali. Étudiant en Génie Logiciel
 </td>
 <td align="center" valign="top" width="33%">
 
-**🗄️ Base de données & Infra**
+**🗄️ Database & Infra**
 <br/>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,git" />
 
@@ -65,16 +71,23 @@ Développeur **Full-Stack**, basé à Bamako, Mali. Étudiant en Génie Logiciel
 <tr>
 <td align="center" valign="top" width="33%">
 
-**🤖 IA & Machine Learning**
+**🤖 AI & Machine Learning**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,opencv" />
 
 </td>
-<td align="center" valign="top" width="66%" colspan="2">
+<td align="center" valign="top" width="33%">
 
 **🔧 Outils**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" />
+<img src="https://skillicons.dev/icons?i=github,vscode,figma" />
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**🚀 Déploiement**
+<br/>
+<img src="https://skillicons.dev/icons?i=vercel" />
 
 </td>
 </tr>
