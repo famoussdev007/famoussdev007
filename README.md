@@ -1,16 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=PHENO&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%7C%20Next.js%20%26%20Laravel%20%7C%20AI%20Explorer&descAlignY=55&descSize=18" width="100%"/>
+```text
+██████╗ ██╗  ██╗███████╗███╗   ██╗ ██████╗
+██╔══██╗██║  ██║██╔════╝████╗  ██║██╔═══██╗
+██████╔╝███████║█████╗  ██╔██╗ ██║██║   ██║
+██╔═══╝ ██╔══██║██╔══╝  ██║╚██╗██║██║   ██║
+██║     ██║  ██║███████╗██║ ╚████║╚██████╔╝
+╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Famoussa+Coulibaly+%F0%9F%91%8B;D%C3%A9veloppeur+Full-Stack+%C2%B7+Bamako%2C+Mali+%F0%9F%87%B2%F0%9F%87%B1;Next.js+%26+Laravel+au+quotidien+%E2%9A%A1;En+route+vers+l'IA+visuelle+%F0%9F%A7%A0" alt="Typing SVG" />
+# Famoussa Coulibaly
+### Développeur Full-Stack · Next.js & Laravel · Bamako, Mali 🇲🇱
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Des+applications+web+modernes+%F0%9F%9A%80;Next.js+%26+Laravel+au+quotidien+%E2%9A%A1;En+route+vers+l'IA+visuelle+%F0%9F%A7%A0;Des+id%C3%A9es+au+code+en+production+%F0%9F%92%BB" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=famoussdev007&label=Profile%20Views&color=2c5364&style=for-the-badge" alt="Profile Views"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=famoussdev007&label=Profile%20Views&color=2c5364&style=for-the-badge)](https://github.com/famoussdev007)
 
 </div>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" />
+
+## ⚡ &nbsp;Projet phare — Mon Portfolio
+
+<div align="center">
+  <a href="https://famoussdev.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visiter-famoussdev.vercel.app-2c5364?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+> **Mes projets, mon parcours et ma stack, réunis au même endroit.**
+> Next.js · Tailwind CSS · Déployé sur Vercel
+
+**[🌐 famoussdev.vercel.app](https://famoussdev.vercel.app)** est la vitrine de mon travail : des applications web modernes, de l'architecture backend aux interfaces.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" />
 
@@ -41,18 +66,8 @@ En ce moment, je plonge aussi dans le **Machine Learning** et l'**IA visuelle**,
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" />
-
-## ⚡ &nbsp;Projet phare — Mon Portfolio
-
-<div align="center">
-  <a href="https://famoussdev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Visiter-famoussdev.vercel.app-2c5364?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-> **Mes projets, mon parcours et ma stack, réunis au même endroit.**
-> Next.js · Tailwind CSS · Déployé sur Vercel
+- 🌍 **Localisation :** Bamako, Mali 🇲🇱
+- 🤝 **Ouvert à :** collaborations, projets open source et échanges autour du web et de l'IA
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" />
 
@@ -107,16 +122,69 @@ En ce moment, je plonge aussi dans le **Machine Learning** et l'**IA visuelle**,
 </tr>
 </table>
 
+<details>
+<summary><b>📋 Voir le détail par catégorie</b></summary>
+
+<br/>
+
+**🚀 Langages**
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+</p>
+
+**🎨 Frontend**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+**⚙️ Backend**
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+
+**🗄️ Bases de données**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+**🤖 IA & Machine Learning**
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
+
+**🔧 Outils & Déploiement**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+</details>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" />
 
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=famoussdev007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=famoussdev007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9" width="38%" />
+| 📈 **Statistiques** | 🔥 **Série de contributions** |
+|:---:|:---:|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=famoussdev007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9) | ![Streak](https://streak-stats.demolab.com/?user=famoussdev007&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=2c5364&currStreakLabel=38BDF8) |
 
-<img src="https://streak-stats.demolab.com/?user=famoussdev007&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=2c5364&currStreakLabel=38BDF8" width="65%"/>
+<br/>
+
+**Langages les plus utilisés**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=famoussdev007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9" width="45%" />
 
 </div>
 
@@ -133,7 +201,5 @@ En ce moment, je plonge aussi dans le **Machine Learning** et l'**IA visuelle**,
 <br/><br/>
 
 ### ⚡ Du code propre, des idées concrètes, des applications qui servent.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
