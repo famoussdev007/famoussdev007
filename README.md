@@ -1,128 +1,139 @@
 <div align="center">
 
-```text
-██████╗ ██╗  ██╗███████╗███╗   ██╗ ██████╗
-██╔══██╗██║  ██║██╔════╝████╗  ██║██╔═══██╗
-██████╔╝███████║█████╗  ██╔██╗ ██║██║   ██║
-██╔═══╝ ██╔══██║██╔══╝  ██║╚██╗██║██║   ██║
-██║     ██║  ██║███████╗██║ ╚████║╚██████╔╝
-╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=PHENO&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%7C%20Next.js%20%26%20Laravel%20%7C%20AI%20Explorer&descAlignY=55&descSize=18" width="100%"/>
 
-# Famoussa Coulibaly
-### Développeur Full-Stack · Next.js & Laravel · Bamako, Mali 🇲🇱
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Famoussa+Coulibaly+%F0%9F%91%8B;D%C3%A9veloppeur+Full-Stack+%C2%B7+Bamako%2C+Mali+%F0%9F%87%B2%F0%9F%87%B1;Next.js+%26+Laravel+au+quotidien+%E2%9A%A1;En+route+vers+l'IA+visuelle+%F0%9F%A7%A0" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=famoussdev007&color=2c5364&style=flat-square&label=Profile+Views)](https://github.com/famoussdev007)
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=famoussdev007&label=Profile%20Views&color=2c5364&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
----
+<br/>
 
-## ⚡ Projet phare — Mon Portfolio
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" />
+
+## 👋 &nbsp;Qui suis-je
+
+Je suis **développeur Full-Stack**, basé à Bamako, Mali 🇲🇱. Étudiant en **Génie Logiciel & Développement Web**, je construis des applications web modernes — de l'architecture backend aux interfaces — avec **Next.js** et **Laravel**.
+
+En ce moment, je plonge aussi dans le **Machine Learning** et l'**IA visuelle**, en marge de mes études, pour élargir ma palette d'outils au-delà du développement web classique.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Actuellement
+- 🔭 Je construis mon portfolio → **[famoussdev.vercel.app](https://famoussdev.vercel.app)**
+- 💻 Applications web avec **Next.js** & **Laravel**
+- 🎓 Étudiant en Génie Logiciel & Développement Web
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 En apprentissage
+- 🧠 **IA visuelle** & **Computer Vision**
+- ⚙️ Bonnes pratiques **Full-Stack**
+- 🌐 **Déploiement** & **DevOps**
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" />
+
+## ⚡ &nbsp;Projet phare — Mon Portfolio
 
 <div align="center">
   <a href="https://famoussdev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-famoussdev.vercel.app-2c5364?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Visiter-famoussdev.vercel.app-2c5364?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
 > **Mes projets, mon parcours et ma stack, réunis au même endroit.**
 > Next.js · Tailwind CSS · Déployé sur Vercel
 
-**[🌐 famoussdev.vercel.app](https://famoussdev.vercel.app)** est la vitrine de mon travail : des applications web modernes, de l'architecture backend aux interfaces.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" />
 
----
+## 🛠️ &nbsp;Tech Stack
 
-## 🧑‍💻 À propos
+<table width="100%">
+<tr>
+<td align="center" width="33%">
 
-- 🎓 **Formation :** Étudiant en Génie Logiciel & Développement Web
-- 💻 **Actuellement :** Je construis des applications web avec **Next.js** et **Laravel**
-- 🧠 **En apprentissage :** Machine Learning, IA visuelle & Computer Vision
-- ⚙️ **Objectif :** Maîtriser les bonnes pratiques Full-Stack, le déploiement et le DevOps
-- 🌍 **Localisation :** Bamako, Mali 🇲🇱
-- 🤝 **Ouvert à :** Collaborations, projets open source et échanges autour du web et de l'IA
+**🎨 Frontend**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" />
 
----
+</td>
+<td align="center" width="33%">
 
-## 💻 Tech Stack
+**⚙️ Backend**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs" />
 
-### 🚀 Langages
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-</p>
+</td>
+<td align="center" width="33%">
 
-### 🎨 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
+**🗄️ Database**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
-### ⚙️ Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
 
-### 🗄️ Bases de données
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
+**🤖 AI & Machine Learning**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,opencv" />
 
-### 🤖 IA & Machine Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-</p>
+</td>
+<td align="center" width="33%">
 
-### 🔧 Outils & Déploiement
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+**🧰 Outils**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
----
+</td>
+<td align="center" width="33%">
 
-## 📊 GitHub Analytics
+**🚀 Déploiement**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=vercel" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" />
+
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
-| 📈 **Statistiques** | 🔥 **Série de contributions** |
-|:---:|:---:|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=famoussdev007&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) | ![Streak](https://streak-stats.demolab.com/?user=famoussdev007&theme=tokyonight&hide_border=true) |
+<img src="https://github-readme-stats.vercel.app/api?username=famoussdev007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=famoussdev007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=c9d1d9" width="38%" />
 
-<br/>
-
-**Langages les plus utilisés**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=famoussdev007&theme=tokyonight&hide_border=true&layout=compact&count_private=true)
-
-<br/>
-
-**Graphique d'activité**
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=famoussdev007&theme=tokyo-night&hide_border=true&area=true)
+<img src="https://streak-stats.demolab.com/?user=famoussdev007&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=2c5364&currStreakLabel=38BDF8" width="65%"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=3&width=100%" />
 
-## 🌐 Me contacter
+## 📫 &nbsp;Me contacter
 
-<p align="left">
-  <a href="https://famoussdev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:famoussa.coulibaly.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/famoussdev007" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://famoussdev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/famoussdev007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:famoussa.coulibaly.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+### ⚡ Du code propre, des idées concrètes, des applications qui servent.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
