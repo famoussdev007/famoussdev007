@@ -77,9 +77,9 @@ En ce moment, je plonge aussi dans le **Machine Learning** et l'**IA visuelle**,
 <tr>
 <td align="center" width="33%">
 
-**🎨 Frontend**
+**🎨 Frontend & Mobile**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,flutter" />
 
 </td>
 <td align="center" width="33%">
@@ -91,9 +91,9 @@ En ce moment, je plonge aussi dans le **Machine Learning** et l'**IA visuelle**,
 </td>
 <td align="center" width="33%">
 
-**🗄️ Database**
+**🗄️ Database & ORM**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,firebase" />
 
 </td>
 </tr>
@@ -114,9 +114,9 @@ En ce moment, je plonge aussi dans le **Machine Learning** et l'**IA visuelle**,
 </td>
 <td align="center" width="33%">
 
-**🚀 Déploiement**
+**🚀 Déploiement & Infra**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=vercel" />
+<img src="https://skillicons.dev/icons?i=vercel,docker" />
 
 </td>
 </tr>
@@ -135,11 +135,12 @@ En ce moment, je plonge aussi dans le **Machine Learning** et l'**IA visuelle**,
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 </p>
 
-**🎨 Frontend**
+**🎨 Frontend & Mobile**
 <p align="left">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
 
 **⚙️ Backend**
@@ -148,10 +149,13 @@ En ce moment, je plonge aussi dans le **Machine Learning** et l'**IA visuelle**,
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
-**🗄️ Bases de données**
+**🗄️ Bases de données & ORM**
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
 </p>
 
 **🤖 IA & Machine Learning**
@@ -166,6 +170,7 @@ En ce moment, je plonge aussi dans le **Machine Learning** et l'**IA visuelle**,
   <img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 </details>
