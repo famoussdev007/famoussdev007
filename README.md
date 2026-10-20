@@ -117,6 +117,9 @@ En ce moment, je plonge aussi dans le **Machine Learning** et l'**IA visuelle**,
 **🚀 Déploiement & Infra**
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=vercel,docker" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger" />
+<img src="https://img.shields.io/badge/Coolify-6B16ED?style=flat-square&logo=coolify&logoColor=white" alt="Coolify" />
 
 </td>
 </tr>
@@ -172,6 +175,8 @@ En ce moment, je plonge aussi dans le **Machine Learning** et l'**IA visuelle**,
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger" />
+  <img src="https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logo=coolify&logoColor=white" alt="Coolify" />
 </p>
 
 </details>
